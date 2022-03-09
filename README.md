@@ -7,12 +7,12 @@ ServerMedia
 package main
 
 import (
-	"github.com/lordbasex/servermedia"
+	"https://github.com/iperfex-team/servermedia"
 )
 
 func main() {
 
-	servermedia.Start()
+	servermedia.Start("/audio")
 
 }
 ```
